@@ -21,8 +21,7 @@ cargo install cargo-generate --features vendored-openssl
 cargo install cargo-run-script
 ```
 
-Now, use it to create your new contract.
-Go to the folder in which you want to place it and run:
+
 
 
 **Latest**
